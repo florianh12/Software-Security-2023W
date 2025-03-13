@@ -1,0 +1,46 @@
+--------------------------------------------------------------------------------
+-                         SUPER ENCRYPTED FILE BACKUP                          -
+--------------------------------------------------------------------------------
+
+Processing...
+Just kidding. I've just encrypted your secenv submission files.
+I get a feeling you might want them back, so just transfer 1 Bitcoin
+to 19btrzhBPoZwPAc6NVHidj33Ar7sy4cHYY and send the payment reference
+below to poly1305@cnc-admin.com
+
+Payment reference: 
+
+98100000
+e052c600
+6f5dae00
+b36dac00
+cc457700
+a4d50f15
+d0e3561b
+bcc3521b
+5e01521b
+bf39521b
+134d9a00
+41049b00
+33c3e100
+1b070111
+0573a600
+2501eb00
+7f08eb00
+07e28d00
+886dfc04
+543d7604
+abce9904
+c35eb106
+b768c910
+dbf1ca10
+4927ca10
+e815ca10
+44611e78
+16041f78
+64c80e78
+4c0c4e7f
+52b8536f
+72aa5b6f
+
+Now I'll be able to afford some x-Cha-Cha-Cha dancing lessons. Thanks to you.
